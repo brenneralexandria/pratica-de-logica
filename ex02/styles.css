@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-left: 6.5%;
+}
+
+.container{
+    max-width: 450px;
+    padding: 1.5rem;
+    border-radius: 20px;
+    color: aliceblue;
+}
+
+button {
+    padding: 1rem;
+    background-color: aliceblue;
+    margin: 7px;
+}
